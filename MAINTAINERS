@@ -9800,7 +9800,7 @@ F:	drivers/scsi/53c700*
 
 LEAKING_ADDRESSES
 M:	Tobin C. Harding <me@tobin.cc>
-M:	Tycho Andersen <tycho@tycho.ws>
+M:	Tycho Andersen <tycho@tycho.pizza>
 L:	kernel-hardening@lists.openwall.com
 S:	Maintained
 T:	git git://git.kernel.org/pub/scm/linux/kernel/git/tobin/leaks.git
@@ -15577,6 +15577,7 @@ F:	include/uapi/linux/sed*
 SECURITY CONTACT
 M:	Security Officers <security@kernel.org>
 S:	Supported
+F:	Documentation/admin-guide/security-bugs.rst
 
 SECURITY SUBSYSTEM
 M:	James Morris <jmorris@namei.org>
